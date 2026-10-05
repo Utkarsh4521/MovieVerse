@@ -1,0 +1,26 @@
+﻿# ─── Node / Frontend ───────────────────────────────────────────────
+node_modules/
+dist/
+.vite/
+
+# ─── Python / Backend ──────────────────────────────────────────────
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.eggs/
+build/
+*.so
+*.log
+
+# ─── Environment / Secrets ─────────────────────────────────────────
+.env
+
+# ─── IDE / OS ──────────────────────────────────────────────────────
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
